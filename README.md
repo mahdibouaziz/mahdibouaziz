@@ -10,7 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
 
-<br />
 
 ### Languages and Tools:
 
@@ -43,6 +42,9 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+
+<br />
+
 
 
 
