@@ -50,3 +50,11 @@
 [instagram]: https://www.instagram.com/mahdii.bouaziz/
 [linkedin]: https://www.linkedin.com/in/mahdibouaziz/
 [facebook]: https://www.facebook.com/mahdi.bouaziz.319
+
+
+
+
+### **Stats**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahdibouaziz&show_icons=true&theme=tokyonight)
+
